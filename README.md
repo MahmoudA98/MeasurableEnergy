@@ -47,14 +47,14 @@ Python Clean and Join historic socket test data with new socket test data:
    git clone https://github.com/MahmoudA98....
    ```
 2. Install python packages
-      ```sh
+  ```sh
   pip install -r requirements.txt
   ```
 
 ### Usage
 
 * Run main.py
-      ```sh
+  ```sh
   python main.py
   ```
 
